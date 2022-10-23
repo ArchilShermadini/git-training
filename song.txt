@@ -4,3 +4,4 @@ Not the way I feel about you
 Girl, I just can't live without you
 
 commit #1 from feature branch
+commit #2 from feature branch
